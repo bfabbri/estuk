@@ -6,6 +6,8 @@ gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootst
 gem 'simple_form'
 #Devise
 gem 'devise', '~> 3.5.1'
+#Can can
+gem 'cancan'
 
 
 
