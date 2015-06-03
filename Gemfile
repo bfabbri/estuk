@@ -8,6 +8,8 @@ gem 'simple_form'
 gem 'devise', '~> 3.5.1'
 #Can can
 gem 'cancan'
+#Paperclip
+gem 'paperclip'
 
 
 
