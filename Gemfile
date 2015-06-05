@@ -10,6 +10,8 @@ gem 'devise', '~> 3.5.1'
 gem 'cancan'
 #Paperclip
 gem 'paperclip'
+#Storing files locally
+gem 'dotenv-rails', group: :development
 
 
 
