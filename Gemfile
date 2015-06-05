@@ -12,6 +12,8 @@ gem 'cancan'
 gem 'paperclip'
 #Storing files locally
 gem 'dotenv-rails', group: :development
+#Friendly URL
+gem 'friendly_id'
 
 
 
